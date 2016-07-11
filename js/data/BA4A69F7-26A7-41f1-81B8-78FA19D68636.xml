@@ -1,0 +1,12 @@
+tocTab[tocTab.length] = new Array("0.2.1:1", "", "Academic", "EARoot/EA2/EA1/EA32.htm", "175.png", "17", "0", "", "Logical diagram0","{38ECFA9D-47F8-48b5-9E5A-35DA4BC80ED1}");
+tocTab[tocTab.length] = new Array("0.2.1:2", "", "AcademicHistory", "EARoot/EA2/EA1/EA35.htm", "5.png", "E132", "0", "", "Class0","{6A23B099-5E4D-4413-A751-6E9F28AAD988}");
+tocTab[tocTab.length] = new Array("0.2.1:3", "", "AcademicQualification", "EARoot/EA2/EA1/EA36.htm", "247.png", "E143", "0", "", "Enumeration0","{75EC49DF-093C-4500-B98E-5B875B7E91E8}");
+tocTab[tocTab.length] = new Array("0.2.1:4", "", "AcademicResult", "EARoot/EA2/EA1/EA37.htm", "8.png", "E136", "0", "", "Interface0","{9E1DE56B-13C5-42be-8766-B80B8C6B461D}");
+tocTab[tocTab.length] = new Array("0.2.1:5", "", "«polymorphic» EnumeratedGrading", "EARoot/EA2/EA1/EA38.htm", "5.png", "E142", "0", "", "Class0","{19E2A6B8-1074-454b-A48C-162D8D4482BC}");
+tocTab[tocTab.length] = new Array("0.2.1:6", "", "Grading", "EARoot/EA2/EA1/EA39.htm", "8.png", "E140", "0", "", "Interface0","{D5A91C7C-B890-4479-9A3B-A1942F6CF3DF}");
+tocTab[tocTab.length] = new Array("0.2.1:7", "", "Institution", "EARoot/EA2/EA1/EA40.htm", "5.png", "E133", "0", "", "Class0","{645596D8-8E6B-4587-950D-EBD0765863A1}");
+tocTab[tocTab.length] = new Array("0.2.1:8", "", "InstitutionType", "EARoot/EA2/EA1/EA41.htm", "247.png", "E134", "0", "", "Enumeration0","{AD72A6F4-2B78-4c7e-BDDE-200C524EB21F}");
+tocTab[tocTab.length] = new Array("0.2.1:9", "", "«polymorphic» NumberGrading", "EARoot/EA2/EA1/EA42.htm", "5.png", "E141", "0", "", "Class0","{848C948E-6033-4f03-9F57-CA6FD343640D}");
+tocTab[tocTab.length] = new Array("0.2.1:10", "", "«polymorphic» SchoolAcademicResult", "EARoot/EA2/EA1/EA43.htm", "5.png", "E138", "0", "", "Class0","{5FDC5D14-BB57-4115-9805-DF878B614E93}");
+tocTab[tocTab.length] = new Array("0.2.1:11", "", "«valueObject» Score", "EARoot/EA2/EA1/EA44.htm", "5.png", "E139", "0", "", "Class0","{E4CA6AC9-CD4F-4448-891F-C2B28CF4E266}");
+tocTab[tocTab.length] = new Array("0.2.1:12", "", "«polymorphic» UniversityAcademicResult", "EARoot/EA2/EA1/EA45.htm", "5.png", "E137", "0", "", "Class0","{7EF1E34D-EFE1-4dc4-89C3-3A9C3CC2F186}");
