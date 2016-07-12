@@ -1,4 +1,4 @@
-tocTab[tocTab.length] = new Array("0.3:1", "", "Scholarship", "EARoot/EA3/EA62.htm", "175.png", "13", "0", "", "Logical diagram0","{695027A8-E935-4d5d-849E-616149789C67}");
-tocTab[tocTab.length] = new Array("0.3:2", "", "ScholarshipProgram", "EARoot/EA3/EA65.htm", "5.png", "E110", "0", "", "Class0","{095921B5-07EF-4d0c-B717-CACC4FADC1B7}");
-tocTab[tocTab.length] = new Array("0.3:3", "", "ScholarshipProgramCycle", "EARoot/EA3/EA66.htm", "5.png", "E109", "0", "", "Class0","{B11D8D9C-13C5-4203-BC28-9E34BB15A368}");
-tocTab[tocTab.length] = new Array("0.3:4", "", "ScholarshipProvider", "EARoot/EA3/EA67.htm", "5.png", "E111", "0", "", "Class0","{098B4514-99E3-46db-B236-079BA30A135E}");
+tocTab[tocTab.length] = new Array("0.2.3:1", "", "Scholarship", "EARoot/EA2/EA3/EA125.htm", "175.png", "13", "0", "", "Logical diagram0","{695027A8-E935-4d5d-849E-616149789C67}");
+tocTab[tocTab.length] = new Array("0.2.3:2", "", "ScholarshipProgram", "EARoot/EA2/EA3/EA128.htm", "5.png", "E110", "0", "", "Class0","{095921B5-07EF-4d0c-B717-CACC4FADC1B7}");
+tocTab[tocTab.length] = new Array("0.2.3:3", "", "ScholarshipProgramCycle", "EARoot/EA2/EA3/EA129.htm", "5.png", "E109", "0", "", "Class0","{B11D8D9C-13C5-4203-BC28-9E34BB15A368}");
+tocTab[tocTab.length] = new Array("0.2.3:4", "", "ScholarshipProvider", "EARoot/EA2/EA3/EA130.htm", "5.png", "E111", "0", "", "Class0","{098B4514-99E3-46db-B236-079BA30A135E}");

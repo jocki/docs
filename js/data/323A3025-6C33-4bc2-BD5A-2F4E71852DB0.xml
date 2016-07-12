@@ -1,5 +1,5 @@
-tocTab[tocTab.length] = new Array("0.1:1", "", "General", "EARoot/EA1/EA7.htm", "175.png", "12", "0", "", "Logical diagram0","{BBC36DCA-FEDD-49f3-AE21-C919DAF66849}");
-tocTab[tocTab.length] = new Array("0.1:2", "", "«polymorphic» Attachment", "EARoot/EA1/EA10.htm", "5.png", "E104", "0", "", "Class0","{8408CE11-3604-4beb-9710-3914A9D7138D}");
-tocTab[tocTab.length] = new Array("0.1:3", "", "AttachmentType", "EARoot/EA1/EA11.htm", "247.png", "E105", "0", "", "Enumeration0","{8B41AB4F-47B6-4ab1-84BC-8AD53C5C91E7}");
-tocTab[tocTab.length] = new Array("0.1:4", "", "BaseEnum", "EARoot/EA1/EA12.htm", "5.png", "E106", "0", "", "Class0","{D590CCF2-03FC-46cd-9368-8B4DC4D650AC}");
-tocTab[tocTab.length] = new Array("0.1:5", "", "«valueObject» Country", "EARoot/EA1/EA13.htm", "5.png", "E107", "0", "", "Class0","{17FC8672-CB23-40bd-9284-EB017083E57F}");
+tocTab[tocTab.length] = new Array("0.2.1:1", "", "General", "EARoot/EA2/EA1/EA69.htm", "175.png", "12", "0", "", "Logical diagram0","{BBC36DCA-FEDD-49f3-AE21-C919DAF66849}");
+tocTab[tocTab.length] = new Array("0.2.1:2", "", "«polymorphic» Attachment", "EARoot/EA2/EA1/EA72.htm", "5.png", "E104", "0", "", "Class0","{8408CE11-3604-4beb-9710-3914A9D7138D}");
+tocTab[tocTab.length] = new Array("0.2.1:3", "", "AttachmentType", "EARoot/EA2/EA1/EA73.htm", "247.png", "E105", "0", "", "Enumeration0","{8B41AB4F-47B6-4ab1-84BC-8AD53C5C91E7}");
+tocTab[tocTab.length] = new Array("0.2.1:4", "", "BaseEnum", "EARoot/EA2/EA1/EA74.htm", "5.png", "E106", "0", "", "Class0","{D590CCF2-03FC-46cd-9368-8B4DC4D650AC}");
+tocTab[tocTab.length] = new Array("0.2.1:5", "", "«valueObject» Country", "EARoot/EA2/EA1/EA75.htm", "5.png", "E107", "0", "", "Class0","{17FC8672-CB23-40bd-9284-EB017083E57F}");
