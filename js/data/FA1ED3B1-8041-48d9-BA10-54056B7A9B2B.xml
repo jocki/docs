@@ -1,7 +1,7 @@
-tocTab[tocTab.length] = new Array("0.2.2.2:1", "", "Employment", "EARoot/EA2/EA2/EA2/EA109.htm", "175.png", "15", "0", "", "Logical diagram0","{D2C6F185-AA16-4bff-90FE-94B2ABE92998}");
-tocTab[tocTab.length] = new Array("0.2.2.2:2", "", "Company", "EARoot/EA2/EA2/EA2/EA112.htm", "5.png", "E131", "0", "", "Class0","{036D93F3-3C54-445f-BF51-B859DB288806}");
-tocTab[tocTab.length] = new Array("0.2.2.2:3", "", "EmploymentHistory", "EARoot/EA2/EA2/EA2/EA113.htm", "5.png", "E145", "0", "", "Class0","{7A55CFAA-9CB7-4bb8-A1DE-960CD6024E89}");
-tocTab[tocTab.length] = new Array("0.2.2.2:4", "", "ExtraMuralActivity", "EARoot/EA2/EA2/EA2/EA114.htm", "5.png", "E147", "0", "", "Class0","{E915E373-C34F-4578-BFD1-08BB481B0A2B}");
-tocTab[tocTab.length] = new Array("0.2.2.2:5", "", "Organization", "EARoot/EA2/EA2/EA2/EA115.htm", "5.png", "E149", "0", "", "Class0","{D14F6782-CB91-474f-AC43-315E6B319DF6}");
-tocTab[tocTab.length] = new Array("0.2.2.2:6", "", "ProfessionalMembership", "EARoot/EA2/EA2/EA2/EA116.htm", "5.png", "E146", "0", "", "Class0","{B4D3302F-EA54-4a68-A472-0970C23FC82B}");
-tocTab[tocTab.length] = new Array("0.2.2.2:7", "", "Reference", "EARoot/EA2/EA2/EA2/EA117.htm", "5.png", "E144", "0", "", "Class0","{FE4BDE23-E60A-404a-A42E-3ED9E2A917E9}");
+tocTab[tocTab.length] = new Array("0.2:1", "", "Employment", "EARoot/EA2/EA34.htm", "175.png", "15", "0", "", "Logical diagram0","{D2C6F185-AA16-4bff-90FE-94B2ABE92998}");
+tocTab[tocTab.length] = new Array("0.2:2", "", "Company", "EARoot/EA2/EA37.htm", "5.png", "E131", "0", "", "Class0","{036D93F3-3C54-445f-BF51-B859DB288806}");
+tocTab[tocTab.length] = new Array("0.2:3", "", "EmploymentHistory", "EARoot/EA2/EA38.htm", "5.png", "E145", "0", "", "Class0","{7A55CFAA-9CB7-4bb8-A1DE-960CD6024E89}");
+tocTab[tocTab.length] = new Array("0.2:4", "", "ExtraMuralActivity", "EARoot/EA2/EA39.htm", "5.png", "E147", "0", "", "Class0","{E915E373-C34F-4578-BFD1-08BB481B0A2B}");
+tocTab[tocTab.length] = new Array("0.2:5", "", "Organization", "EARoot/EA2/EA40.htm", "5.png", "E149", "0", "", "Class0","{D14F6782-CB91-474f-AC43-315E6B319DF6}");
+tocTab[tocTab.length] = new Array("0.2:6", "", "ProfessionalMembership", "EARoot/EA2/EA41.htm", "5.png", "E146", "0", "", "Class0","{B4D3302F-EA54-4a68-A472-0970C23FC82B}");
+tocTab[tocTab.length] = new Array("0.2:7", "", "Reference", "EARoot/EA2/EA42.htm", "5.png", "E144", "0", "", "Class0","{FE4BDE23-E60A-404a-A42E-3ED9E2A917E9}");
